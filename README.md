@@ -24,5 +24,5 @@ Por último, también encontrarás algunos links hacia ejemplos resueltos con lo
 - [Patrón Strategy](https://github.com/sistemadual-ahk/dds2-patron-strategy "Patrón Strategy")
 - [Patrón Adapter](https://github.com/sistemadual-ahk/dds2-patron-adapter "Patrón Adapter")
 - [Patrón Composite](https://github.com/sistemadual-ahk/dds2-patron-composite "Patrón Composite")
-- Patrón Command
-  - [Depósito automatizado](https://github.com/dds-utn/deposito-automatizado "Depósito automatizado")
+- [Módulo Exportador](https://github.com/dds-utn/modulo-exportador "Módulo exportador"): Dominio resuelto con patrones Strategy y Adapter. Además, se hace uso de Apache PDFBox y Apache POI.
+- [Depósito automatizado](https://github.com/dds-utn/deposito-automatizado "Depósito automatizado"): Dominio resuelto con patrones Command, Observer, Builder y Adapter. Además, se implementa un cliente MQTT.
