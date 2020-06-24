@@ -28,3 +28,4 @@ Por último, también encontrarás algunos links hacia ejemplos resueltos con lo
 - [Módulo de manejo de Stock y Precios](https://github.com/dds-utn/modulo-stock-precios "Módulo de manejo de Stock y Precios"): Dominio resuelto con patrones Decorator y Composite.
 - [Nuevo Sistema de Gestión Académica](https://github.com/dds-utn/nuevo-sistema-gestion-academica "Nuevo Sistema de Gestión Académica"): Dominio conocido resuelto con varios patrones, destacando la utilización del patrón Builder. Además, contempla la utilización de Repositorios genéricos.
 - [Depósito automatizado](https://github.com/dds-utn/deposito-automatizado "Depósito automatizado"): Dominio resuelto con patrones Command, Observer, Builder y Adapter. Además, se implementa un cliente MQTT.
+- [GarbariSi](https://github.com/dds-utn/garbarisi "GarbariSi"): Dominio resuelto con patrón Observer.
