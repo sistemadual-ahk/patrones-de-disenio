@@ -17,8 +17,12 @@ Además, vas a encontrar una explicación teórica del patrón en cuestión, la 
 - ¿Qué proporciona su uso? Vinculado a las cualidades de diseño y algunos atributos de calidad.
 - Code Smells que soluciona/evita de forma directa
 
+Por último, también encontrarás algunos links hacia ejemplos resueltos con los patrones mencionados.
+
 ## Índice de repositorios
 - [Patrón State](https://github.com/sistemadual-ahk/dds2-patron-state "Patrón State")
 - [Patrón Strategy](https://github.com/sistemadual-ahk/dds2-patron-strategy "Patrón Strategy")
 - [Patrón Adapter](https://github.com/sistemadual-ahk/dds2-patron-adapter "Patrón Adapter")
 - [Patrón Composite](https://github.com/sistemadual-ahk/dds2-patron-composite "Patrón Composite")
+- Patrón Command
+  - [Depósito automatizado](https://github.com/dds-utn/deposito-automatizado "Depósito automatizado")
